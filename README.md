@@ -1,7 +1,7 @@
 # PILO (Simple Voice Controlled Personal Virtual Assistant)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) 
-![Libraries](https://img.shields.io/badge/Libraries-SpeechRecognition_|_GoogleTranslate_|_OpenAI_|_BeautifulSoup_|_PyAutoGUI_|_GeoPy_|_PyWhatKit_|_PyGame_|_PyAudio-red)
+![Libraries](https://img.shields.io/badge/Libraries-SpeechRecognition_|_GoogleTranslate_|_OpenAI_|_PyAutoGUI_|_PyWhatKit_|_PyGame_|_PyAudio-red)
 
 
 **PILO** stands for **Personal virtual Model.**
@@ -32,11 +32,6 @@ NEMO is a voice controlled personal virtual assistant technology driven by artif
 11. Schedule your day
 12. Create To-do list
 
-
-## Market 
-
-![Tasks](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/c41e4442-3572-479b-b1e4-45f9af094508)
-
 ## How to run the project locally?
 
 1. Clone or download this repository to your local machine.
@@ -57,8 +52,6 @@ NEMO is a voice controlled personal virtual assistant technology driven by artif
    source [virtual environment name]/bin/activate
    ```
 6. Install all the libraries 
-   ```
-
 7. Run the python file
 8. Click and enjoy your Personal Assitant - **PILO**
 
