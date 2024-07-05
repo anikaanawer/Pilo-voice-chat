@@ -13,7 +13,7 @@ NEMO is a voice controlled personal virtual assistant technology driven by artif
 * Voice Controlled Optimized Human-like Query Resolver using Artificial Intelligence
 * Voice Controlled Application Control
 * Voice Controlled E-messaging: email, whatsapp
-* Voice Controlled Media Control
+* Voice Controlled Media 
 * Voice Controlled Web/Website Searching
 * Utility management: time, date, weather forecast
 
